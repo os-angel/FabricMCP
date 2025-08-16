@@ -13,7 +13,7 @@ An MCP (Model Context Protocol) server that lets you manage Microsoft Fabric/Pow
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - Microsoft Azure account with Power BI/Fabric access
 - Azure AD application registered with Power BI API permissions
 
