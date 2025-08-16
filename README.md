@@ -70,6 +70,8 @@ MCP_Git/
 └── README.md                 # This file
 ```
 
+![Claude and Fabric Integration in Action](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XZUQFghm92axCVNtyOBLIQ.gif)
+
 ## Environment Variables
 
 ```bash
