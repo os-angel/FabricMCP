@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that lets you manage Microsoft Fabric/Power BI through natural language commands with Claude.
 
+![Microsoft Fabric and Claude Integration](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sa6EAYvLDHCciDBBHSU9ng.jpeg)
+
 ## Features
 
 - List workspaces
